@@ -6,5 +6,3 @@ be used as a Data Source, or easily converted into a Data Warehouse.
 
 It is made for a very specific problem, but maybe it could inspire you to adapt it
 to your own needs.
-
-There is an example of a raw .html that this program expects in this folder of the repo.
