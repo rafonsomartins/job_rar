@@ -3,8 +3,10 @@ Please don’t use it with bad intentions.
 
 The names of the windows might differ across versions of SAP and different computers.
 
-The coordinates will certainly differ from computer to computer. One solution would be to use relative (percentual) coordinates.
+The coordinates will certainly differ from computer to computer. One solution would
+be to use relative (percentual) coordinates.
 
-Once again, I apologize for the unorganized and amateur code. As explained before, this is not a script intended for production—just to experiment with new libraries.
+Once again, I apologize for the unorganized and amateur code. As explained before, this
+is not a script intended for production—just to experiment with new libraries.
 
 Hope this helps someone.
