@@ -1,12 +1,10 @@
-This is a quick academic script to show the power of pyautogui.
-Don't use it with bad intention.
+This is a quick academic script to showcase the power of pyautogui.
+Please don’t use it with bad intentions.
 
-The name of the windows might differ from versions of SAP and versions of computers.
+The names of the windows might differ across versions of SAP and different computers.
 
-The coordinates will surelly differ from computer to computer. One solution would
-be to use relative (percentual) coordinates.
+The coordinates will certainly differ from computer to computer. One solution would be to use relative (percentual) coordinates.
 
-Once again, i am sorry for the unorganized and amateur code. As explained before is
-not a script intended to be in production, just to experiment new libraries.
+Once again, I apologize for the unorganized and amateur code. As explained before, this is not a script intended for production—just to experiment with new libraries.
 
 Hope this helps someone.
