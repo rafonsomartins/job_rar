@@ -14,8 +14,8 @@ save_dir = f'C:\\Users\\rum\\OneDrive - RAR Açucar, S.A\\Documents\\1_Projetos\
 if not os.path.exists(save_dir):
 	os.makedirs(save_dir)
 
-client_id = "820dc942-cf63-4dff-92bc-9805b650ed7c"
-tenant_id = "6e0c9ca0-f684-4a8a-ad81-89fa02634a3b"
+client_id = "########"
+tenant_id = "########"
 scopes = ["User.Read", "Mail.Read", "Mail.ReadWrite"]
 
 class RawAccessTokenProvider:
@@ -52,7 +52,7 @@ async def get_mail():
 			timeout=60
 		)
 		for email in mail.value:
-			if (re.search(r'.*Job Z_LISTAGEM_ORDENS, Step 1', email.subject) and email.sender.email_address.address == "fse@rara.pt"):
+			if (re.search(r'.*########', email.subject) and email.sender.email_address.address == "###@#####.###"):
 				print(email.subject)
 				print(email.created_date_time)
 				email_id = email.id
