@@ -1,5 +1,5 @@
 Some Python scripts I developed with the goals of:
-- Experiment and learn
+- Experimenting and learning
 - Quickly solve some everyday work problems
 
 I am posting them on my GitHub to showcase my work, but mainly with the hope that they might help someone in their learning curve.
