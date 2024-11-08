@@ -1,5 +1,5 @@
-First of all: main.py is not the beggining of the program, rather big.py. It was an
-ongoing project and it didn't pass throught a cleaning phase. Sorry for that.
+First of all: main.py is not the beggining of the program but rather big.py. It was
+an ongoing project and it didn't pass throught a cleaning phase. Sorry for that.
 
 This program converts a .html to a .csv appending it with the timestamp so it can
 be used as a Data Source, or easily converted into a Data Warehouse.
