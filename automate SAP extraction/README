@@ -1,0 +1,12 @@
+This is a quick academic script to show the power of pyautogui.
+Don't use it with bad intention.
+
+The name of the windows might differ from versions of SAP and versions of computers.
+
+The coordinates will surelly differ from computer to computer. One solution would
+be to use relative (percentual) coordinates.
+
+Once again, i am sorry for the unorganized and amateur code. As explained before is
+not a script intended to be in production, just to experiment new libraries.
+
+Hope this helps someone.
