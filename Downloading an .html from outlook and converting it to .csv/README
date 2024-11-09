@@ -1,7 +1,8 @@
 First of all: *main.py* is not the beginning of the program, but rather *big.py*. It was
 an ongoing project and didn’t go through a cleaning phase. Sorry for that.
 
-This program converts an .html to an .csv appending a timestamp so it can
+This program converts an .htm
+to an .csv appending a timestamp so it can
 be used as a Data Source, or easily converted into a Data Warehouse.
 
 It is made for a very specific problem, but maybe it could inspire you to adapt it
