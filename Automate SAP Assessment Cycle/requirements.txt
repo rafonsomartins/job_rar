@@ -1,0 +1,3 @@
+tilia
+pandas
+pyautogui
