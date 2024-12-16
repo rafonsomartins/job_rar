@@ -10,7 +10,7 @@ def main():
 	rateios = pd.read_excel(input_file)
 
 	sap_bot = tl.SAPAutomation(username, password)
-	sap_bot.open_sap(username, password)
+	sap_bot.open_sap()
 
 	output = []
 	tl.mouse_click(0.371875, 0.3013889)
