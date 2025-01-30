@@ -19,8 +19,8 @@ logging.basicConfig(filename='server.log', level=logging.INFO,
 EMAIL_CONFIG = {
 	'smtp_server': 'smtp.office365.com',
 	'port': 587,
-	'sender_email': 'rum@rara.pt',
-	'password': 'Solp0rt0'
+	'sender_email': 'sender@email.com',
+	'password': 'passowrd'
 }
 
 last_client_time = time.time()
@@ -29,9 +29,9 @@ notified = [False, False, False]
 # Database configuration
 DB_CONFIGS = {
 	'database': 'Refinaria',
-	'user': 'rum_db',
-	'password': '12345',
-	'host': 'localhost',
+	'user': 'user_db',
+	'password': 'password',
+	'host': 'host_ip',
 	'port': 3306,
 	'allow_local_infile': True
 }
