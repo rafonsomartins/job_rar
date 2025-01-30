@@ -19,8 +19,8 @@ logging.basicConfig(filename='server.log', level=logging.INFO,
 EMAIL_CONFIG = {
 	'smtp_server': 'smtp.office365.com',
 	'port': 587,
-	'sender_email': 'rum@rara.pt',
-	'password': 'Solp0rt0'
+	'sender_email': 'sender@email.com',
+	'password': 'passowrd'
 }
 
 last_client_time = time.time()
