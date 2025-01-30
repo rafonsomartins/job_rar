@@ -29,9 +29,9 @@ notified = [False, False, False]
 # Database configuration
 DB_CONFIGS = {
 	'database': 'Refinaria',
-	'user': 'rum_db',
-	'password': '12345',
-	'host': 'localhost',
+	'user': 'user_db',
+	'password': 'password',
+	'host': 'host_ip',
 	'port': 3306,
 	'allow_local_infile': True
 }
